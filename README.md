@@ -1,6 +1,6 @@
 # Rest-Django
 
-### installed app:
+### Django REST framework is a powerful and flexible toolkit for building Web APIs. For installation:
 
 - pip3 install restframework
 
